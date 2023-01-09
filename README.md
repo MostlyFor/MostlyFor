@@ -4,7 +4,7 @@
 - 💞️ I’m looking to find some team work with
 - 📫 How to reach me -> ghd1dudgns@naver.com
 - MY BLOG
-https://velog.io/write?id=4f5f74e1-66e4-42ee-8466-f6bc56ab5536
+https://velog.io/@tri2601
 
 <!---
 MostlyFor/MostlyFor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

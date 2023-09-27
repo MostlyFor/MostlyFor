@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MostlyFor
 - 👀 I’m interested in ML, Reinforcement Learning, NLP
-- 🌱 I’m currently learning openCV
+- 🌱 I’m currently learning Retrieval and Recsys
 - 💞️ I’m looking to find some team work with
 - 📫 How to reach me -> ghd1dudgns@naver.com
 - MY BLOG

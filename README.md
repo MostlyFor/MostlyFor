@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Awards
-- Lg aimers 4기 해커톤 1위
+- Lg aimers 4기 해커톤 1위 (고용노동부장관상)
 
 
 
-
+---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tri2601)](https://solved.ac/tri2601/)

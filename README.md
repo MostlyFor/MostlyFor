@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MostlyFor
-- 👀 I’m interested in ML, Reinforcement Learning, NLP
-- 🌱 I’m currently learning Retrieval and Recsys
+- 👀 I’m interested in NLP, ML
+- 🌱 I’m currently learning `Retrieval system` and `Time series forecasting`
 - 💞️ I’m looking to find some team work with
 - 📫 How to reach me -> ghd1dudgns@naver.com
 - MY BLOG
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Awards
-- Lg aimers 4기 해커톤 1위 (고용노동부장관상)
+- LG AI 연구원 주관 LG Aimers 4기 해커톤 1위 (고용노동부장관상)
 
 
 

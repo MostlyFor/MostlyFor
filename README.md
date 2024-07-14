@@ -14,7 +14,15 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Awards
-- LG AI 연구원 주관 LG Aimers 4기 해커톤 1위 (고용노동부장관상)
+### LG AI 연구원 주관 LG Aimers 4기 해커톤 1위 (고용노동부장관상)
+- 2024.04.22
+
+## Work Experience
+### Naver
+- 기간 : 2024.07 ~ 진행중
+- 부서 : Query Generation
+- 직책 : Intern
+
 
 
 

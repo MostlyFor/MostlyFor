@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Awards
 ### LG AI 연구원 주관 LG Aimers 4기 해커톤 1위 (고용노동부장관상)
-- 2024.04.22
+- 일시 : 2024.04.22
+- 내용 : B2B 고객 구매 전환 예측 대회
 
 ## Work Experience
 ### Naver

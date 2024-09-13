@@ -14,16 +14,24 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Awards
-### LG AI 연구원 주관 LG Aimers 4기 해커톤 1위 (고용노동부장관상)
+### LG AI 연구원 주관 해커톤 1위 (고용노동부장관상)
 - 일시 : 2024.04.22
 - 내용 : B2B 고객 구매 전환 예측 대회
 
-## Work Experience
+## Experience
 ### Naver
-- 기간 : 2024.07 ~ 진행중
+- 기간 : 2024.07 ~ 2024.08
 - 부서 : Query Generation
 - 직책 : Intern
+- 업무 : LLM을 활용한 검색어 교정 및 제안 연구
+- 성과 : 실제 서비스에 적용
 
+### LG Aimers
+- 기간 : 2024.01 ~ 2024.04
+
+
+### Boostcamp AI Tech (NLP)
+- 기간 : 2023.03 ~ 2023.08
 
 
 

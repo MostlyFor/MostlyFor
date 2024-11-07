@@ -14,9 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Awards
-### LG AI 연구원 주관 해커톤 1위 (고용노동부장관상)
+### [LG AI 연구원] MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 (1위 - 고용노동부 장관상)
 - 일시 : 2024.04.22
-- 내용 : B2B 고객 구매 전환 예측 대회
+- 내용 : 구매 확률이 높은 고객 예측하는 ML 모델 개발
+- 성과 : 고용노동부 장관상
 
 ## Experience
 ### Naver
@@ -36,4 +37,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tri2601)](https://solved.ac/tri2601/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tri2601)](https://solved.ac/tri2601/) [![mazandi profile](http://mazandi.herokuapp.com/api?handle=tri2601&theme=dark)](https://solved.ac/tri2601)
+
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMostlyFor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

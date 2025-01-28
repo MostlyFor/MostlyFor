@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MostlyFor
-- 👀 I’m interested in NLP, ML
-- 🌱 I’m currently learning `Retrieval system` and `Time series forecasting`
+- 👀 I’m interested in NLP
+- 🌱 I’m currently learning `Retrieval system` and `LLM`
 - 💞️ I’m looking to find some team work with
 - 📫 How to reach me -> ghd1dudgns@naver.com
 - MY BLOG

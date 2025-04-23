@@ -37,5 +37,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/mostlyfor?theme=dark&font=Assistant&ext=heatmap)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tri2601)](https://solved.ac/tri2601/) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tri2601)](https://solved.ac/tri2601/) [![mazandi profile](http://mazandi.herokuapp.com/api?handle=tri2601&theme=dark)](https://solved.ac/tri2601)
